@@ -1,0 +1,10 @@
+C:\Users\RoshaN\source\repos\AccountApplicationDemoApp\AccountApplicationDemoApp\bin\Debug\AccountApplicationDemoApp.exe.config
+C:\Users\RoshaN\source\repos\AccountApplicationDemoApp\AccountApplicationDemoApp\bin\Debug\AccountApplicationDemoApp.exe
+C:\Users\RoshaN\source\repos\AccountApplicationDemoApp\AccountApplicationDemoApp\bin\Debug\AccountApplicationDemoApp.pdb
+C:\Users\RoshaN\source\repos\AccountApplicationDemoApp\AccountApplicationDemoApp\obj\Debug\AccountApplicationDemoApp.csproj.AssemblyReference.cache
+C:\Users\RoshaN\source\repos\AccountApplicationDemoApp\AccountApplicationDemoApp\obj\Debug\AccountApplicationDemoApp.AccountForm.resources
+C:\Users\RoshaN\source\repos\AccountApplicationDemoApp\AccountApplicationDemoApp\obj\Debug\AccountApplicationDemoApp.Properties.Resources.resources
+C:\Users\RoshaN\source\repos\AccountApplicationDemoApp\AccountApplicationDemoApp\obj\Debug\AccountApplicationDemoApp.csproj.GenerateResource.cache
+C:\Users\RoshaN\source\repos\AccountApplicationDemoApp\AccountApplicationDemoApp\obj\Debug\AccountApplicationDemoApp.csproj.CoreCompileInputs.cache
+C:\Users\RoshaN\source\repos\AccountApplicationDemoApp\AccountApplicationDemoApp\obj\Debug\AccountApplicationDemoApp.exe
+C:\Users\RoshaN\source\repos\AccountApplicationDemoApp\AccountApplicationDemoApp\obj\Debug\AccountApplicationDemoApp.pdb
